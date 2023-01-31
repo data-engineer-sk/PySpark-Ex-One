@@ -8,5 +8,5 @@ This is my new five self-learning PySpark Exercises
   iv. Cheaking the Datatypes of the Column(Schema)
 2) 
 3)
-4)
+4) Apply Filter in Pyspark
 5)
