@@ -6,7 +6,9 @@ This is my new five self-learning PySpark Exercises
   ii. PaSpark Datafirme
   iii.Reading the dataset
   iv. Cheaking the Datatypes of the Column(Schema)
-2) 
+2) Introduction to Pyspark
+  i.  Select specific data
+  ii. Drop and rename columns
 3)
 4) Apply Filter in Pyspark
 5) Introduce Aggregate and GroupBy in Pyspark
